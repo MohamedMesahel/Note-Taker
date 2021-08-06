@@ -1,21 +1,6 @@
 [
-  1,
-  {
-    "title": "dfsf",
-    "text": "dsfsdf",
-    "id": {
-      "title": "Test Title",
-      "text": "Test text"
+    {
+        "title":"Test Title",
+        "text":"Test text"
     }
-  },
-  {
-    "title": "dsfsdf",
-    "text": "sdfsdfsd",
-    "id": null
-  },
-  {
-    "title": "fgdgdfg",
-    "text": "fdgdfgdfg",
-    "id": null
-  }
 ]
