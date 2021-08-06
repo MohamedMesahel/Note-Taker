@@ -19,6 +19,7 @@ After installation run command `node server.js` in the command line to start run
 
 ### Screen Shots
 ![](/public/assets/img/START.png)
+![](/public/assets/img/Taking-notes.png)
 
 ## User Story
 
