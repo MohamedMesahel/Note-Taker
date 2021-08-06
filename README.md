@@ -18,7 +18,7 @@ This application called Note Taker that can be used to write and save notes.This
 After installation run command `node server.js` in the command line to start running the app.
 
 ### Screen Shots
-![](./assets/img/Teamprofile.png)
+![](/public/assets/img/START.png)
 
 ## User Story
 
