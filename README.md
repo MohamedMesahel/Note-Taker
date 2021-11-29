@@ -113,9 +113,8 @@ Distributed under the MIT License.
 ## Acknowledgments
 
 List for some useful resources!
-* [Inquirer](https://www.npmjs.com/package/inquirer)
-* [Jest](https://www.npmjs.com/package/jest)
-* [Inquirer](https://www.npmjs.com/package/inquirer)
+* [Express](https://expressjs.com/)
+* [HEROKU](https://www.heroku.com/)
 
 
 
