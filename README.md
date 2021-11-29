@@ -9,7 +9,7 @@
 [![Website shields.io](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](http://shields.io/)
 [![Website shields.io](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](http://shields.io/)
 [![Website shields.io](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](http://shields.io/)
-
+[![Website shields.io](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](http://shields.io/)
 
 # Note Taker
 This application called Note Taker that can be used to write and save notes.This application  use's an Express.js back end and will save and retrieve note data from a JSON file.
@@ -76,7 +76,7 @@ After installation run command `node server.js` in the command line to start run
 
 ### Built With
 
-JavaScript, NodeJS,Inquirer and Jest.
+JavaScript, NodeJS, and Express.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
